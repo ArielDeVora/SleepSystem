@@ -1,0 +1,31 @@
+Categorie,Nom,Poids_g,R_Value,Temp_C,Gain_Temp_C,Prix_Eur,Type,Confort,Compatibilite
+Matelas,Therm-a-Rest XLite NXT MAX,540,4.5,,,250,Matelas,3.0,Toutes
+Matelas,Therm-a-Rest Neoloft,910,4.7,,,230,Matelas,4.5,Toutes
+Matelas,Exped MegaMat Ultra LW,950,4.4,,,220,Matelas,5.0,Toutes
+Matelas,Exped MegaMat Ultra LXW,1080,4.4,,,270,Matelas,5.0,Toutes
+Matelas,Featherstone Calcatta Pad,680,3.0,,,110,Matelas,3.5,Toutes
+Matelas,Sea to Summit Ether Light XT Insulated RL,665,4.1,,,150,Matelas,3.5,Toutes
+Matelas,Sea to Summit Ether Light XT Insulated Pro RL,790,7.4,,,160,Matelas,3.5,Toutes
+Matelas,Nemo Tensor Ultralight insulated LW,580,5.4,,,230,Matelas,3.5,Toutes
+Matelas,Nemo Tensor Extreme LW,660,8.5,,,230,Matelas,3.5,Toutes
+Sac,EE Revelation 10F,770,,-8,,460,Quilt,4.5,Toutes
+Sac,Sierra Designs Cloud 20,880,,-3,,400,Sac,3.5,Toutes
+Sac,Sierra Designs Cloud Quilt,770,,-3,,400,Quilt,4.2,Toutes
+Sac,Nemo Disco 15F,1330,,-3,,330,Sac,3.8,Toutes
+Sac,Nordisk FREJA -5° BLANKET SLEEPING BAG,1235,,-1,,400,Sac,4.3,Toutes
+Sac,Nordisk IDES -5° WIDE SLEEPING BAG,1165,,-1,,440,Sac,3.9,Toutes
+Sac,Zenbivy Light Quilt -12 Down,1130,,-7,,400,Quilt,5.0,Toutes
+Sac,Katabatic Gear Flex 15F LW,700,,-7,,500,Quilt,4.5,Toutes
+Sac,Khibu Topquilt Magma Custom,800,,-7,,400,Quilt,4.5,Toutes
+Sac,Khibu Topquilt Axiom Zero UL,800,,-7,,400,Quilt,4.5,Toutes
+Sac,ROCK FRONT 600 Ascetic UL,1005,,-8,,355,Quilt,4.5,Toutes
+Sac,ROCK FRONT 450 Pro Ultralight SET (quilt+sheet),980,,-2,,365,Quilt,4.5,Toutes
+Sac,Liteway Simple Quilt,560,,-2,,280,Quilt,4.5,Toutes
+Sac,Hyberg LONER Lite 550,775,,-5,,430,Quilt,4.5,Toutes
+Sac,Hyberg SLUMBER 500,690,,-4,,410,Quilt,4.5,Toutes
+Accessoire,Liner Soie,130,,,2,65,Quilt_Only,0.0,Toutes
+Accessoire,ROCK FRONT Ultrasoft sleeping mat sheet,155,,,1,41,Universel,1.5,Toutes
+Accessoire,Liner Thermolite,260,,,5,70,Universel,0.0,Toutes
+Accessoire,Zenbivy Light Quilt -12 Down LightSheet,420,,,0,175,Quilt_Only,2.0,Zenbivy
+Accessoire,Z-Lite Sol (6 sections),200,,,2,25,Universel,0.0,Toutes
+Accessoire,Aucun,0,,,0,0,Universel,0.0,Toutes
